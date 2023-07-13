@@ -1,7 +1,7 @@
 {
-  "name": "krypton",
+  "name": "MindchainWallet",
   "version": "5.1.0",
-  "description": "Krypton - Bulma + Alpine JS ICO/Crypto Starter",
+  "description": "MindchainWallet - Bulma + Alpine JS ICO/Crypto Starter",
   "type": "module",
   "private": true,
   "author": {
